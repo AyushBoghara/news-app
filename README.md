@@ -192,12 +192,11 @@ If you encounter any issues or have questions:
 - [Picasso](https://square.github.io/picasso/) for image loading
 - Android community for continuous support and resources
   
-## contact me
+## Contact
 For any inquiries or support, please contact:
 - **Developer:** Ayush M Boghara
 - **Email:** [bogharaayush1124@gmail.com]
 - **GitHub:** [AyushBoghara](https://github.com/AyushBoghara)
-
 ---
 
-**Made with ❤️ for Android developers**
+**Made with ❤️ for Ayush Boghara**
